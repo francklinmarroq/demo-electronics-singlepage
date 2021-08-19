@@ -1,0 +1,17 @@
+nav{
+    display:flex;
+    background: #1d212B;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+}
+nav ul li{
+    margin: 0px;
+    padding: 10px;
+    display: inline-block;
+    border-bottom: #2696E9 solid 3.5px;
+    cursor: pointer;
+}
