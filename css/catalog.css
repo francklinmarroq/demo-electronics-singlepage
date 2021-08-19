@@ -8,6 +8,9 @@
 .catalog h1,h2, h3{
     margin: 10px 30px;
 }
+.catalog h1{
+    text-transform: uppercase;
+}
 
 .catalog .header{
     width: 98%;

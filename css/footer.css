@@ -1,0 +1,39 @@
+.footer{
+    min-height: 300px;
+    padding: 30px;
+    text-align: center;
+    background: rgb(26, 26, 26);
+    color: rgb(194, 194, 194);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer .enlaces{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.footer a{
+    text-decoration: none;
+    color: #63798a;
+    font-size: 14px;
+    display: block;
+}
+
+.footer .a{
+    text-decoration: none;
+    color: #63798a;
+    font-size: 14px;
+}
+
+.footer a ion-icon{
+    text-decoration: none;
+    color: #63798a;
+    font-size: 32px;
+    margin: 0 5px;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+}
